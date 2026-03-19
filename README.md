@@ -6,7 +6,6 @@
 - Model Fitting 
 - Results
 
-![alt text](https://github.com/dunnus/Toxic-Comments-Classification/blob/main/image/Power-In-Positivity.jpg)
 
 ### Dataset Overview
 The threat of abuse and harassment online prevent many people from expressing themselves and make them give up on seeking different opinions. In the meantime, platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments. Therefore, Kaggle started this competition with the Conversation AI team, a research initiative founded by Jigsaw and Google.
